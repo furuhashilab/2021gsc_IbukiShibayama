@@ -11,5 +11,7 @@
 指導教員 古橋大地 教授
 
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
+## 構想発表資料
+https://docs.google.com/presentation/d/1ke3Sp_isVlk7S6blGusIr-qGoNd83tSER_FzXyQazfU/edit?usp=sharing
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
