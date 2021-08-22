@@ -12,6 +12,10 @@
 
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 ## 構想発表資料
+### スライド
 https://docs.google.com/presentation/d/1ke3Sp_isVlk7S6blGusIr-qGoNd83tSER_FzXyQazfU/edit?usp=sharing
+### VR例
+http://weblit.class.ysklab.net/students/2021/shibayama.ibuki/finalproject/3ddesign.html
+
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
