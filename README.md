@@ -14,7 +14,7 @@
 ## 構想発表資料
 #### PLATEAU
 https://www.mlit.go.jp/plateau/
-#### VR例
+#### VR試作
 https://four-believed-timbale.glitch.me/
 #### VR東大 Cluster
 https://cluster.mu/u/UTokyoOC
