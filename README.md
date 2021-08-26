@@ -14,6 +14,8 @@
 ## 構想発表資料
 #### PLATEAU
 https://www.mlit.go.jp/plateau/
+#### 3D都市モデル（Project PLATEAU）ポータルサイト
+https://www.geospatial.jp/ckan/dataset/plateau
 #### VR試作
 https://four-believed-timbale.glitch.me/
 #### VR東大 Cluster
