@@ -20,8 +20,15 @@ https://www.geospatial.jp/ckan/dataset/plateau
 https://four-believed-timbale.glitch.me/
 #### VR東大 Cluster
 https://cluster.mu/u/UTokyoOC
+## 中間発表資料
+#### Medium
+
 #### スライド
 https://docs.google.com/presentation/d/1ke3Sp_isVlk7S6blGusIr-qGoNd83tSER_FzXyQazfU/edit?usp=sharing
-
+#### 先行事例/既往研究
+1. a
+2. b
+3. c
+#### 新規性
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
