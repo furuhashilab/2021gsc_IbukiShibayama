@@ -22,5 +22,7 @@ https://docs.google.com/presentation/d/1ke3Sp_isVlk7S6blGusIr-qGoNd83tSER_FzXyQa
 2. [VR東大](https://vr.u-tokyo.ac.jp/virtualUT/)
 3. [バーチャル渋谷](https://cluster.mu/w/79347fb9-05f5-429e-ab5f-8951ee8cd966)
 #### 新規性
+* 市民による3Dモデル整備の可能性を実践しながら検証する点。
+* キャンパスの3Dモデルをオープンデータ化する点
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
