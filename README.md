@@ -14,7 +14,7 @@
 
 ## 中間発表資料
 #### Medium
-
+https://medium.com/furuhashilab/3d%E3%83%81%E3%83%A3%E3%83%9A%E3%83%AB%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%B0%96%E5%A1%94%E3%81%AA%E3%81%97ver-4e685e015e5f
 #### スライド
 https://docs.google.com/presentation/d/1ke3Sp_isVlk7S6blGusIr-qGoNd83tSER_FzXyQazfU/edit?usp=sharing
 #### 先行事例/既往研究
