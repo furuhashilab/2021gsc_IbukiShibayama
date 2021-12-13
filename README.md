@@ -24,5 +24,7 @@ https://docs.google.com/presentation/d/1ke3Sp_isVlk7S6blGusIr-qGoNd83tSER_FzXyQa
 #### 新規性
 * 市民による3Dモデル整備の可能性を実践しながら検証する点。
 * キャンパスの3Dモデルをオープンデータ化する点。
+#### Advent Calendar
+* [Medium](https://medium.com/furuhashilab/2021-12-13-advent-calendar-241ebedc0fa5)
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
