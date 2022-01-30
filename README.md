@@ -1,5 +1,6 @@
 # 2021gsc_IbukiShibayama
-# 2021年度古橋ゼミ論用レポジトリ
+2021年度古橋ゼミ論用レポジトリ
+# PLATEAUの整備フローを基にした相模原キャンパスの建物3Dオープンデータの制作と応用方法の考察
 2021年度 ゼミ論文
 
 青山学院大学 地球社会共生学部 地球社会共生学科
@@ -12,7 +13,15 @@
 
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 
+## 概要
+## Introduction
+## Methods
+## Results
+## Discussion
+## Conclusion
 ## 中間発表資料
+## References
+## Acknowledgements
 #### Medium
 https://medium.com/furuhashilab/3d%E3%83%81%E3%83%A3%E3%83%9A%E3%83%AB%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%B0%96%E5%A1%94%E3%81%AA%E3%81%97ver-4e685e015e5f
 #### スライド
