@@ -14,6 +14,7 @@
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 
 ## 概要
+本研究では、国土交通省が進める3D都市モデルのオープンデータプラットフォーム「PLATEAU」の整備フローを参考に、相模原キャンパスのモデリングを行った。LOD2以上の詳細なモデルができていない地域で、市民がデータ整備に貢献できるようなフローを検証し、そこで生まれた課題をまとめた。
 ## Introduction
 ## Methods
 ## Results
