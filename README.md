@@ -34,5 +34,7 @@
 * キャンパスの3Dモデルをオープンデータ化する点。
 #### Advent Calendar
 * [Medium](https://medium.com/furuhashilab/2021-12-13-advent-calendar-241ebedc0fa5)
+#### Sketchfab
+* [https://sketchfab.com/ibukilego](https://sketchfab.com/ibukilego)
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
