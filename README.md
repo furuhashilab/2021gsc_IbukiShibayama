@@ -32,8 +32,31 @@ PLATEAUにおける3種類のリソースに対し、それぞれにデータを
 <img width="70%" alt="2022-01-31 (1)" src="https://user-images.githubusercontent.com/72287333/151733346-2bd3162b-4d20-40f3-b826-7fb43e80254c.png">
 
 まず、ドローンの測量は古橋大地教授の主導の下、2021年12月15日にエアロセンス社製エアロボウイングを用いて行った。そこで得られたLASデータをCoudCompareでサイズ調整とトリミングを行ってPLYファイルにエクスポートし、Blenderで点群に沿うようにメッシュの3Dモデルを作成する。このモデルをOBJやFBXなどのファイルにエクスポートし、GitHubやSketchfabなどでオープンデータとして公開する。なお、CloudCompareとBlenderを選択したのは、無料ソフトウェアであり、より多くのユーザーが最低限のコストで利用できると考えたからである。
-
 ## Results
+まず、ドローンを用いた測量からはキャンパス全体の高精度な点群データが得られ、ガラス面の反射による崩れも少なく、3Dモデリングには支障が無いことが確認できた。点群データは古橋教授によって間引きされ、58.2GBから3.4GBまでの5段階のサイズのLASファイルでGoogle Driveで共有された。それらを比較し、1.84GBのものがモデリングに必要な最低限の点群を有していると判断できたため、このデータを利用することにした。
+このLASファイルをCloudCompareにインポートし、Segment機能でキャンパスの各棟ごとにトリミングし、それぞれをPLYファイルとしてエクスポートした。
+<img width="70%" alt="2022-01-31 (3)" src="https://user-images.githubusercontent.com/72287333/151740664-6113297f-1517-41e0-a276-03f2cfd1cdca.png">
+<img width="70%" alt="2022-01-31 (4)" src="https://user-images.githubusercontent.com/72287333/151740673-062cb2da-5e51-46cf-92b8-5ad977cee361.png">
+
+Blenderでのモデリングは、相模原キャンパスのランドマーク的存在であるC棟ウェスレーチャペルを優先して行った。PLYファイルをBlenderにインポートしたら、原点を3Dカーソルに合わせ、点群に沿うようにキューブのオブジェクトを編集していった。操作は基本的なものに制限し、主にオブジェクトの移動、回転、サイズ変更、ループカット（辺の追加）、面の押し出しのみでモデリングを行った。
+
+<img width="70%" alt="2022-01-31 (5)" src="https://user-images.githubusercontent.com/72287333/151741123-4abf08bc-1928-49b2-ba88-84d36bab24d6.png">
+<img width="70%" alt="2022-01-31 (6)" src="https://user-images.githubusercontent.com/72287333/151741131-457d7951-150a-40fc-ac0f-9b0daa1ed745.png">
+
+結果、C棟のLOD3相当のモデルが完成し、OBJ形式でエクスポートし、GitHubとSketchfabでオープンデータ（CC-BY-4.0）として公開した。
+
+<img width="70%" alt="2022-01-31 (7)" src="https://user-images.githubusercontent.com/72287333/151741247-a38555ff-51b2-4817-8714-e276b9a5e3fc.png">
+
+* [動画資料](https://youtu.be/N7c88h7HLcg)
+* [Sketchfab](https://sketchfab.com/3d-models/wesley-chapel-agu-sagamihara-campus-lod3-e85177e3f4ed4f66a96d55f007abebe7)
+
+また、キャンパス3Dモデルの応用案としてGlitchでA-frameをコーディングしてマーカーベースARを作成した。
+* ARマーカー
+
+![armarker_sc_c_l](https://user-images.githubusercontent.com/72287333/151741820-760f2e30-9fe2-403e-ba31-4dc10707fe71.png)
+
+* [動画資料](https://youtu.be/6uI9PRdn81g)
+
 ## Discussion
 ## Conclusion
 ## References
