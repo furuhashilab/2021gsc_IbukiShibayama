@@ -51,13 +51,13 @@ Blenderでのモデリングは、相模原キャンパスのランドマーク�
 * [動画資料](https://youtu.be/N7c88h7HLcg)
 * [Sketchfab](https://sketchfab.com/3d-models/wesley-chapel-agu-sagamihara-campus-lod3-e85177e3f4ed4f66a96d55f007abebe7)
 
-また、キャンパス3Dモデルの応用案としてGlitchでA-frameをコーディングしてマーカーベースARを作成した。
+また、スマートフォンやタブレットでの3Dモデルの共有方法として、GlitchでA-frameをコーディングしてマーカーベースARを作成した。
 
 <img width="70%" alt="2022-01-31 (9)" src="https://user-images.githubusercontent.com/72287333/151753286-c36ae42e-d285-4843-91ba-4ef62b020119.png">
 
 * [ソースコード](https://glitch.com/edit/#!/solid-amplified-piranha)
 * ARマーカー
-  * QRコードをスマホやタブレットで撮影し、リンク先でもそのままカメラを向け続けると3Dチャペルが現れる。
+  * QRコードをスマートフォンやタブレットで撮影し、リンク先でもそのままカメラを向け続けると3Dチャペルが現れる。
   * マーカーに対して垂直に表示されるので、画面を上に向けた状態で見ることを推奨する。
 
 ![armarker_sc_c_l](https://user-images.githubusercontent.com/72287333/151741820-760f2e30-9fe2-403e-ba31-4dc10707fe71.png)
@@ -89,6 +89,9 @@ Blenderでのモデリングにおいても特に致命的な問題は無かっ�
 [https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing)
 ## Acknowledgements
 本研究を進めるにあたり、青山学院大学 地球社会共生学部 古橋大地教授にフィールドワークの機会や貴重な助言を賜りました。深く感謝致します。
+#### グラレコ
+<img width="70%" alt="無題25_20220131205215 jpg" src="https://user-images.githubusercontent.com/72287333/151811449-c73c8b4d-4190-4f61-a418-6957a8320de3.png">
+
 #### Medium
 [https://medium.com/furuhashilab/%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%933d%E3%83%A2%E3%83%87%E3%83%AB-%E3%82%BC%E3%83%9F%E8%AB%96-fd3b3355cb10](https://medium.com/furuhashilab/%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%933d%E3%83%A2%E3%83%87%E3%83%AB-%E3%82%BC%E3%83%9F%E8%AB%96-fd3b3355cb10)
 #### スライド
