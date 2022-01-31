@@ -53,7 +53,7 @@ Blenderでのモデリングは、相模原キャンパスのランドマーク�
 
 また、キャンパス3Dモデルの応用案としてGlitchでA-frameをコーディングしてマーカーベースARを作成した。
 
-<img width="70%" alt="2022-01-31 (8)" src="https://user-images.githubusercontent.com/72287333/151752003-4bd77153-5931-42cf-9bac-a5a77668c7d0.png">
+<img width="70%" alt="2022-01-31 (9)" src="https://user-images.githubusercontent.com/72287333/151753286-c36ae42e-d285-4843-91ba-4ef62b020119.png">
 
 * ARマーカー
 
