@@ -52,6 +52,9 @@ Blenderでのモデリングは、相模原キャンパスのランドマーク�
 * [Sketchfab](https://sketchfab.com/3d-models/wesley-chapel-agu-sagamihara-campus-lod3-e85177e3f4ed4f66a96d55f007abebe7)
 
 また、キャンパス3Dモデルの応用案としてGlitchでA-frameをコーディングしてマーカーベースARを作成した。
+
+<img width="70%" alt="2022-01-31 (8)" src="https://user-images.githubusercontent.com/72287333/151752003-4bd77153-5931-42cf-9bac-a5a77668c7d0.png">
+
 * ARマーカー
 
 ![armarker_sc_c_l](https://user-images.githubusercontent.com/72287333/151741820-760f2e30-9fe2-403e-ba31-4dc10707fe71.png)
