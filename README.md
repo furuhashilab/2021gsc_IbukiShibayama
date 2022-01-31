@@ -88,6 +88,7 @@ Blenderでのモデリングにおいても特に致命的な問題は無かっ�
 ## Acknowledgements
 本研究を進めるにあたり、青山学院大学 地球社会共生学部 古橋大地教授にフィールドワークの機会や貴重な助言を賜りました。深く感謝致します。
 #### Medium
+[https://medium.com/furuhashilab/%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%933d%E3%83%A2%E3%83%87%E3%83%AB-%E3%82%BC%E3%83%9F%E8%AB%96-fd3b3355cb10](https://medium.com/furuhashilab/%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%933d%E3%83%A2%E3%83%87%E3%83%AB-%E3%82%BC%E3%83%9F%E8%AB%96-fd3b3355cb10)
 #### スライド
 [https://docs.google.com/presentation/d/19zjQCWRxxe3eguYAZYU1q5sLG8w0jMO8JjFAyZOWEBM/edit?usp=sharing](https://docs.google.com/presentation/d/19zjQCWRxxe3eguYAZYU1q5sLG8w0jMO8JjFAyZOWEBM/edit?usp=sharing)
 #### 先行事例/既往研究
