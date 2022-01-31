@@ -73,7 +73,9 @@ Blenderでのモデリングにおいても特に致命的な問題は無かっ�
 今回は基本的に全機能が無料で使えるという理由でBlenderを採用したが、直感的に操作することが難しいため苦戦するケースも多いと感じた。Blender未経験者に対してモデリングの実践とそのフィードバックを依頼し、市民が参加する整備フローに適するかどうか、ペルソナの基準を変更するかどうか検証する必要がある。
 ## Conclusion
 ## References
+[https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing)
 ## Acknowledgements
+本研究を進めるにあたり、青山学院大学 地球社会共生学部 古橋大地教授にフィールドワークの機会や助言を賜りました。深く感謝致します。
 #### Medium
 #### スライド
 [https://docs.google.com/presentation/d/19zjQCWRxxe3eguYAZYU1q5sLG8w0jMO8JjFAyZOWEBM/edit?usp=sharing](https://docs.google.com/presentation/d/19zjQCWRxxe3eguYAZYU1q5sLG8w0jMO8JjFAyZOWEBM/edit?usp=sharing)
