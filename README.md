@@ -39,7 +39,7 @@ PLATEAUにおける3種類のリソースに対し、それぞれにデータを
 <img width="70%" alt="2022-01-31 (3)" src="https://user-images.githubusercontent.com/72287333/151740664-6113297f-1517-41e0-a276-03f2cfd1cdca.png">
 <img width="70%" alt="2022-01-31 (4)" src="https://user-images.githubusercontent.com/72287333/151740673-062cb2da-5e51-46cf-92b8-5ad977cee361.png">
 
-Blenderでのモデリングは、相模原キャンパスのランドマーク的存在であるC棟ウェスレーチャペルを優先して行った。PLYファイルをBlenderにインポートしたら、原点を3Dカーソルに合わせ、点群に沿うようにキューブのオブジェクトを編集していった。操作は基本的なものに制限し、主にオブジェクトの移動、回転、サイズ変更、ループカット（辺の追加）、面の押し出しのみでモデリングを行った。
+Blenderでのモデリングは、相模原キャンパスのランドマーク的存在であるC棟ウェスレーチャペルを優先して行った。PLYファイルをBlenderにインポートしたら、原点を3Dカーソルに合わせ、点群に沿うようにキューブのオブジェクトを編集していった。操作は基本的なものに制限し、主にオブジェクトの移動、回転、サイズ変更、ループカット（辺の追加）、面の押し出し、面の作成のみでモデリングを行った。
 
 <img width="70%" alt="2022-01-31 (5)" src="https://user-images.githubusercontent.com/72287333/151741123-4abf08bc-1928-49b2-ba88-84d36bab24d6.png">
 <img width="70%" alt="2022-01-31 (6)" src="https://user-images.githubusercontent.com/72287333/151741131-457d7951-150a-40fc-ac0f-9b0daa1ed745.png">
