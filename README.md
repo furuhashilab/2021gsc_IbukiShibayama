@@ -16,17 +16,17 @@
 ## Abstract
 本研究では、国土交通省が進める3D都市モデルのオープンデータプラットフォーム「PLATEAU」の整備フローを参考に、相模原キャンパスのモデリングを行った。LOD2以上の詳細なモデルができていない地域で、市民がデータ整備に貢献できるようなフローを検証し、そこで生まれた課題をまとめた。
 ## Introduction
-日本全国の3D都市モデルデータを整備し、オープンデータとして流通させる「Project PLATEAU」は国土交通省の主導で2020年度から開始された。PLATEAUのデータ整備は規模が大きくてもコストを低減させることが可能で、2021年8月に整備対象の56都市分の3D都市モデルのオープン化が完了した（国土交通省, 2021）。しかし各地域のデータにおいて、LOD1と呼ばれる、建物と高さの情報（PLATEAU Learning）のみが登録されているものが多く、さらに詳細なLOD2以上のデータ整備が課題だといえる。そこで今回は、PLATEAUの整備フローを参考に、市民が参加できるような3D都市データの整備方法を検証し、成果物をオープンデータ化する。
+日本全国の3D都市モデルデータを整備し、オープンデータとして流通させる「Project PLATEAU」は国土交通省の主導で2020年度から開始された。PLATEAUのデータ整備は規模が大きくてもコストを低減させることが可能で、2021年8月に整備対象の56都市分の3D都市モデルのオープン化が完了した（国土交通省a, 2021）。しかし各地域のデータにおいて、LOD1と呼ばれる、建物と高さの情報のみが登録されているものが多く、さらに詳細なLOD2以上のデータ整備が課題だといえる。そこで今回は、PLATEAUの整備フローを参考に、市民が参加できるような3D都市データの整備方法を検証し、成果物をオープンデータ化する。
 
-* 資料1:LODについて（出典：PLATEAU Learning, [https://www.mlit.go.jp/plateau/learning/](https://www.mlit.go.jp/plateau/learning/)）
-<img width="70%" alt="2022-01-31 (2)" src="https://user-images.githubusercontent.com/72287333/151738911-ae91e841-239d-4983-8792-9f0b5b51b863.png">
+* 資料1:LODについて（出典：3D都市モデルの導入ガイダンス, 国土交通省b, [https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0000_ver01.pdf](https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0000_ver01.pdf)）
+<img width="878" alt="2022-02-05 (2)" src="https://user-images.githubusercontent.com/72287333/152627115-17a1c952-4331-4cc8-a4de-ddc6a39e01cf.png">
 
 ## Methods
 PLATEAUの整備フローは、2次元の地図情報（都市計画基本図）に3次元の航空測量情報を組み合わせ、さらに建物のメタデータ（都市計画基礎調査情報）を付与させるというものであり（空間情報クラブ, 2021）、全てオープンデータから成り立っている。この流れを基に、市民が参加できるように考案した全体の整備フローを以下の図1で示す。ただし、ここでの市民とは、ネットがある環境でパソコンを使ったファイルの操作や編集ができる者、と定義する。なお本研究では、国土交通省が示すデータの作成方法のうち「現地調査や測量などにより、新規に取得する」（国土交通省都市局, 2021）を選択し、実践する範囲は建物の高さや形状を反映した幾何オブジェクトの作成までとする。
 * （図1）
 <img width="70%" alt="2022-01-31" src="https://user-images.githubusercontent.com/72287333/151733088-739413d1-c88d-453f-9ebe-3cf8f73855cf.png">
 
-* 資料2:国土交通省が示す標準的な作業手順（出典：3D都市モデル標準作業手順書, [https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver01.pdf](https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver01.pdf)）
+* 資料2:国土交通省が示す標準的な作業手順（出典：3D都市モデル標準作業手順書, 国土交通省都市局, [https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver01.pdf](https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0002_ver01.pdf)）
 <img width="40%" alt="2022-02-05" src="https://user-images.githubusercontent.com/72287333/152623098-70e122ef-bf9a-4bf3-9cdc-e9c82071ec17.png">
 
 PLATEAUにおける3種類のリソースに対し、それぞれにデータを割り振った。2次元の地図情報にはOpenStreetMapや国土地理院地図を、3次元の情報にはDronebirdをはじめとする民間団体によるドローンの測量データを、メタデータにはLiDAR機能を搭載したスマートフォンや360°カメラによる3Dスキャンのデータを対応させた。ドローンの測量と3Dスキャンのデータについては、各々が取得した後にオープンデータとして公開することを前提とする。
